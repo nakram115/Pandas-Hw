@@ -1,6 +1,6 @@
 # Pandas-Hw
 
- Created a high level snapshot (in table form) of the district's key metrics, including:
+ Created a high level snapshot (in table form) of the school district's key metrics, including:
   * Total Schools
   * Total Students
   * Total Budget
